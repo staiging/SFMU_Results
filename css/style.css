@@ -145,7 +145,7 @@ body,html{height: 100%;}
 .footer-nav ul li, .priv ul li{float: left; margin-right: 20px;}
 .footer-nav ul li a{}
 .pdf{float: left; width: 100%; padding: 50px 0 70px;}
-.pdf .common-wrap{max-width: 950px;}
+.pdf .common-wrap{max-width: 870px;}
 .pdf-inner{float: left; width: 100%;}
 .pdf-inner img{float: left; width: 100%;}
 /* //End footer style */
